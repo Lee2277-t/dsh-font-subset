@@ -1,0 +1,7 @@
+# dsh-font-subset bundle patch: mounts the plugin into the host profile.
+- insert:
+    - id: font-subset
+      name: 'dsh-font-subset'
+      config:
+        formats:
+          - woff2

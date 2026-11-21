@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Font subset",
+    "description": "Cut a font down to the characters a page actually uses, and report the characters it lacks. Chinese webfonts go from megabytes to kilobytes; missing glyphs are surfaced before they become tofu boxes."
+  }
+}
